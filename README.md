@@ -9,4 +9,6 @@ inRiver 6 connector log viewer
 Or,
 1. Run the code from the devtools console in your browser.
 
-The log viewer itself is a popup window. Select a connector using the dropdown, and use the refresh button to get the latest messages for the selected connector.
+You can hit F5 or refresh to load the most recent logs for the selected connector.
+
+![popup window](screenshot.png)
