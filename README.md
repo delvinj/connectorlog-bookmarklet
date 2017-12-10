@@ -9,6 +9,4 @@ inRiver 6 connector log viewer
 Or,
 1. Run the code from the devtools console in your browser.
 
-You can hit F5 or refresh to load the most recent logs for the selected connector.
-
 ![popup window](screenshot.png)
